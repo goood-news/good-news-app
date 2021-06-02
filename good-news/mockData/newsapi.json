@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 10575,
+"articles": [
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "By CNN Business",
+"title": "US stock futures are flat as a pancake",
+"description": "Here's the latest news on what stocks are doing.",
+"url": "https://www.cnn.com/business/live-news/stock-market-news-060221/index.html",
+"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210526093835-nyse-0524-super-tease.jpg",
+"publishedAt": "2021-06-02T10:48:26Z",
+"content": "A new LGBTQ exchange-traded fund recently launched on Wall Street ... just in time for the start of Pride Month. It's a clear sign that investors recognize the purchasing power and economic clout of … [+501 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "Niloofer Shaikh",
+"title": "Tesla to buy over $1B of battery raw materials from Australia per year - Reuters",
+"description": "Tesla (TSLA)-1%premarket, expects to spend more than $1B a year on sourcing battery raw materials from Australia - Reuters.Robyn Denholm, chair of the U.S",
+"url": "https://seekingalpha.com/news/3702196-tesla-to-buy-over-1b-of-battery-raw-materials-from-australia-per-year-reuters",
+"urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+"publishedAt": "2021-06-02T10:38:47Z",
+"content": "<ul><li>Tesla (NASDAQ:TSLA)&nbsp;-1%\r\n&nbsp;premarket, expects to spend more than $1B a year on sourcing battery raw materials from Australia - Reuters.</li><li>Robyn Denholm, chair of the U.S. carma… [+579 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNA"
+},
+"author": "CNA",
+"title": "Tesla recalls nearly 6,000 US vehicles over potentially loose bolts",
+"description": "Tesla Inc is recalling nearly 6,000 U.S. vehicles because brake caliper bolts could be loose, with the potential  to cause a loss of tire pressure, documents made public on Wednesday show.",
+"url": "https://www.channelnewsasia.com/news/business/tesla-recalls-nearly-6-000-us-vehicles-over-potentially-loose-bolts-14933076",
+"urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14933074/16x9/991/557/1579802cf97c19e12a3509df1bdb344b/FC/file-photo--a-tesla-logo-on-a-model-s-is-photographed-inside-of-a-tesla-dealership-in-new-york-1.jpg",
+"publishedAt": "2021-06-02T10:35:28Z",
+"content": "WASHINGTON: Tesla Inc is recalling nearly 6,000 U.S. vehicles because brake caliper bolts could be loose, with the potential to cause a loss of tire pressure, documents made public on Wednesday show.… [+403 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Enrique Dans, Senior Contributor, \n Enrique Dans, Senior Contributor\n https://www.forbes.com/sites/enriquedans/",
+"title": "Electric Cars And Mass Adoption",
+"description": "We are facing one of the biggest technological transitions ever, and it is already in its exponential phase. Try to think beyond the present and the decisions you may have made or will still make. The implications of the coming change will be momentous and li…",
+"url": "https://www.forbes.com/sites/enriquedans/2021/06/02/electric-cars-and-massadoption/",
+"urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b75d90fb9f32375a7dd319%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2725%26cropY1%3D314%26cropY2%3D1592",
+"publishedAt": "2021-06-02T10:32:35Z",
+"content": "IMAGE:\r\nullstein bild via Getty Images\r\nAn interesting article by Justin Rowlatt on the BBC website, Why electric cars will take over sooner than you think, applies the S-curve of the technology life… [+2927 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Barron's"
+},
+"author": "Evie Liu",
+"title": "How to Score With Options if the Rebound in Tech Stocks Doesn't Last - Barron's",
+"description": "JPMorgan strategist Shawn Quigg recommends buying put options on Baidu. Tesla, Qualcomm, and other names.",
+"url": "https://www.barrons.com/articles/how-to-score-with-options-if-the-rebound-in-tech-stocks-doesnt-last-51622582508",
+"urlToImage": "https://images.barrons.com/im-346877/social",
+"publishedAt": "2021-06-02T10:30:00Z",
+"content": "After a few months of steep ups and downs, technology stocks are rising again,  thanks to the latest reassuring commentary from the Federal Reserve about inflation and interest rates. The Nasdaq-100 … [+2552 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+"title": "Dogecoin Soars As Elon Musk Declares The Crypto’s ‘Inevitable’ Financial Takeover Following Coinbase Pro Listing",
+"description": "The 20% surge saw doge become the sixth most valuable cryptocurrency and overtake Covid vaccine maker BioNTech in value.",
+"url": "https://www.forbes.com/sites/roberthart/2021/06/02/dogecoin-soars-as-elon-musk-declares-the-cryptos-inevitable-financial-takeover-following-coinbase-pro-listing/",
+"urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b75a6c403c6994dd7dd319%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3113%26cropY1%3D57%26cropY2%3D1808",
+"publishedAt": "2021-06-02T10:28:43Z",
+"content": "Dogecoin rallied more than 20% Wednesday morning following news it would soon be added to one of the worlds largest cryptocurrency exchanges and encouragement from billionaire enthusiast Elon Musk on… [+2894 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Reuters",
+"title": "Tesla recalls nearly 6000 U.S. vehicles over potentially loose bolts - Reuters",
+"description": "Tesla Inc (TSLA.O) is recalling nearly 6,000 U.S. vehicles because brake caliper bolts could be loose, with the potential  to cause a loss of tire pressure, documents made public on Wednesday show.",
+"url": "https://www.reuters.com/world/us/tesla-recalls-nearly-6000-us-vehicles-over-potentially-loose-bolts-2021-06-02/",
+"urlToImage": "https://www.reuters.com/resizer/1kgipieDg6sut8wSZk9syGF_-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y3OSX6DIBVMORJAHNK4VN5UGPU.jpg",
+"publishedAt": "2021-06-02T10:26:00Z",
+"content": "Tesla Inc (TSLA.O) is recalling nearly 6,000 U.S. vehicles because brake caliper bolts could be loose, with the potential to cause a loss of tire pressure, documents made public on Wednesday show.\r\nT… [+365 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "Bill Maurer",
+"title": "Tesla: Looking For Some Clarity",
+"description": "There are increasing questions regarding production levels, not only because of the chip shortages, but Tesla's removal of radar from vehicles. Here's the investment view.",
+"url": "https://seekingalpha.com/article/4432546-tesla-looking-for-some-clarity",
+"urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204778/large_image_1140204778.jpg",
+"publishedAt": "2021-06-02T10:16:11Z",
+"content": "Photo by jetcityimage/iStock Editorial via Getty Images\r\nAs we enter the month of June, the final month of a quarter is always the busiest for electric vehicle maker Tesla (TSLA). The company has alw… [+5579 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Fred Lambert",
+"title": "Tesla is expected to be first to use LG’s new NCMA nickel-based battery cells",
+"description": "Tesla is expected to become the first automaker to use LG Energy Solution’s new NCMA battery cells, which have a 90% nickel composition. Over the last few years, Tesla has been adopting more new chemistries in its battery cells for its electric vehicles, espe…",
+"url": "https://electrek.co/2021/06/02/tesla-first-lg-new-ncma-nickel-based-battery-cells/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2015/09/gvmtfpb-e1586415437482.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2021-06-02T10:12:51Z",
+"content": "Tesla is expected to become the first automaker to use LG Energy Solution’s new NCMA battery cells, which have a 90% nickel composition.\r\nOver the last few years, Tesla has been adopting more new che… [+2690 chars]"
+},
+{
+"source": {
+"id": "the-next-web",
+"name": "The Next Web"
+},
+"author": "Ioanna Lykiardopoulou",
+"title": "Tesla hops on Chinese social media to police posts that damage its brand",
+"description": "A Tesla owner in China gave a public apology on social media for uploading a video on his TikTok account with a staged “brake failure” incident. The legal department of Tesla China seems to have accused the user for false defamation, which resulted in a new T…",
+"url": "https://thenextweb.com/news/tesla-censors-chinese-social-media-posts-that-damage-brand",
+"urlToImage": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Ftelsa-apology.jpg&signature=b6d3312465343f7a3b5bd0ed5a322f58",
+"publishedAt": "2021-06-02T10:04:36Z",
+"content": "A Tesla owner in China gave a public apology on social media for uploading a video on his TikTok account with a staged brake failure incident.\r\nThe legal department of Tesla China seems to have accus… [+2441 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Relay Therapeutics, Inc.",
+"title": "Relay Therapeutics to Participate in Two Upcoming Investor Conferences",
+"description": "CAMBRIDGE, Mass., June 02, 2021 (GLOBE NEWSWIRE) -- Relay Therapeutics, Inc. (Nasdaq: RLAY) is scheduled to participate in fireside chats at the Goldman...",
+"url": "https://finance.yahoo.com/news/relay-therapeutics-participate-two-upcoming-100000112.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/VdLdJotZjevjNJjQ67GOvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD04NzE-/https://s.yimg.com/uu/api/res/1.2/1XIURinqQf1X3LU8PmzZnQ--~B/aD05MzM7dz0yMTQyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/d2aa875c3d4f02941142f3c5b7c803b3",
+"publishedAt": "2021-06-02T10:00:00Z",
+"content": "(Bloomberg) -- A lull in Bitcoins wild swings in recent days has been taken by some as a tentative sign the fragile digital currency could recover.The worlds largest cryptocurrency was little changed… [+2708 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "PR Newswire",
+"title": "Adventech is Excited to Announce New Patent Allowance",
+"description": "Enhanced network power factor corrective designs are presented that can use corrective devices that achieve long­ term, operationally stable mechanical work....",
+"url": "https://finance.yahoo.com/news/adventech-excited-announce-patent-allowance-100000348.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/0fd0bho9lo0QVCTleRp6mw--~B/aD0yNjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/cfcf88ed12c5e2a877a0b2211a53327c",
+"publishedAt": "2021-06-02T10:00:00Z",
+"content": "(Bloomberg) -- A lull in Bitcoins wild swings in recent days has been taken by some as a tentative sign the fragile digital currency could recover.The worlds largest cryptocurrency was little changed… [+2708 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "Bram de Haas",
+"title": "IPOF: Bet Alongside Chamath Palihapitiya At A Great Price",
+"description": "Chamath Palihapitiya's SPACs have been positively melting. It looks like a good time to establish positions in the Social Capital Hedosophia SPACs again, specifically IPOF stock.",
+"url": "https://seekingalpha.com/article/4432544-ipof-bet-alongside-chamath-palihapitiya-at-a-great-price",
+"urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/615649324/large_image_615649324.jpg",
+"publishedAt": "2021-06-02T09:55:34Z",
+"content": "Photo by Mike Windle/Getty Images Entertainment via Getty Images\r\nOne of the things I have known my entire life is that I have an innate capability for making money. - Chamath Palihapitiya\r\nI get app… [+13762 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "hrobertson@businessinsider.com (Harry Robertson)",
+"title": "An EV company is planning a crypto-mining car that will dig for bitcoin and dogecoin while parked",
+"description": "Move over, Tesla, a Canadian light-electric-vehicle maker is positioning itself as the new car company on the cryptocurrency block.",
+"url": "https://markets.businessinsider.com/news/stocks/car-mine-cryptocurrencies-bitcoin-dogecoin-ether-daymak-electric-vehicles-2021-6-1030486158",
+"urlToImage": "https://images2.markets.businessinsider.com/60b74fb8bee0fc0019d5ac51?format=jpeg",
+"publishedAt": "2021-06-02T09:53:51Z",
+"content": "Critics argue that the energy-intensive bitcoin mining process is bad for the planet.\r\nLars Hagberg/Getty Images\r\nForget Tesla, there's a new electric carmaker on the cryptocurrency block. Maybe.\r\nCa… [+1867 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Harry Robertson",
+"title": "An EV company is planning a crypto-mining car that will dig for bitcoin and dogecoin while parked",
+"description": "Summary List PlacementForget Tesla, there's a new electric carmaker on the cryptocurrency block. Maybe.\nCanadian light-electric-vehicle manufacturer Daymak said on Tuesday that its new Avvenire Spiritus model will be able to mine cryptocurrencies, including b…",
+"url": "https://www.businessinsider.com/car-mine-cryptocurrencies-bitcoin-dogecoin-ether-daymak-electric-vehicles-2021-6",
+"urlToImage": "https://i.insider.com/60b74fb802ac410018f93cdb?width=1200&format=jpeg",
+"publishedAt": "2021-06-02T09:53:51Z",
+"content": "Forget Tesla, there's a new electric carmaker on the cryptocurrency block. Maybe.\r\nCanadian light-electric-vehicle manufacturer Daymak said on Tuesday that its new Avvenire Spiritus model will be abl… [+1741 chars]"
+},
+{
+"source": {
+"id": "the-next-web",
+"name": "The Next Web"
+},
+"author": "Matthew Beedham",
+"title": "This Tesla Roadster simulation with the SpaceX thruster pack shows its insane speed",
+"description": "Tesla is claiming that its upcoming Roadster sports car will accelerate from zero to 60 quicker than pretty much anything else on the planet — 1.9 seconds to be precise. It’s so fast that there isn’t much out there to compare it to, so we don’t really have a …",
+"url": "https://thenextweb.com/news/tesla-roadster-space-x-acceleration-simulation",
+"urlToImage": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F01%2Froadster-tesla-delays-musk-elon-2020-2021-2017.jpg&signature=180995e173240e480496943f2c8b0779",
+"publishedAt": "2021-06-02T09:40:11Z",
+"content": "Tesla is claiming that its upcoming Roadster sports car will accelerate from zero to 60 quicker than pretty much anything else on the planet 1.9 seconds to be precise. Its so fast that there isnt muc… [+1479 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "HYPEBEAST"
+},
+"author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+"title": "Tesla Files Trademark For Elon Musk's Restaurant Concept",
+"description": "Looking towards its future, Tesla recently filed a new trademark for \"Restaurant services, pop-up restaurant services, self-service restaurant services, take-out restaurant services.\"Officially filed with the United States Patent and Trademark Office, the UST…",
+"url": "https://hypebeast.com/2021/6/tesla-elon-musk-restaurant-concept-trademark-filing-info",
+"urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Ftesla-elon-musk-restaurant-concept-trademark-filing-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
+"publishedAt": "2021-06-02T09:31:55Z",
+"content": "Looking towards its future, Tesla recently filed a new trademark for “Restaurant services, pop-up restaurant services, self-service restaurant services, take-out restaurant services.”\r\nOfficially fil… [+813 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "TweakTown"
+},
+"author": "Jak Connor",
+"title": "SEC puts Elon Musk in hot water again over Tweets that weren't vetted",
+"description": "Elon Musk has been thrown back into hot water by the SEC after the regulatory agency says Musk has posted unvetted tweets. Continue reading at TweakTown >",
+"url": "https://www.tweaktown.com/news/79745/sec-puts-elon-musk-in-hot-water-again-over-tweets-that-werent-vetted/index.html",
+"urlToImage": "https://static.tweaktown.com/news/7/9/79745_01_sec-puts-elon-musk-in-hot-water-again-over-tweets-that-werent-vetted_full.jpg",
+"publishedAt": "2021-06-02T09:31:02Z",
+"content": "A new report from The Wall Street Journal has revealed Elon Musk is receiving some heat from the Securities Exchange Commission (SEC) over some unvetted tweets.\r\nBack in August 2018, Musk tweeted tha… [+1107 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CleanTechnica"
+},
+"author": "Zachary Shahan",
+"title": "Tesla Sales Forecasts for 2021",
+"description": "Two months ago, Tesla released its 1st quarter production and delivery totals, which were well above what Wall Street analysts were expecting. Shortly thereafter, I published my somewhat detailed Tesla sales forecast (i.e., delivery forecast) for 2021. Troy T…",
+"url": "https://cleantechnica.com/2021/06/02/tesla-sales-forecasts-for-2021/",
+"urlToImage": "https://cleantechnica.com/files/2021/06/2021-Tesla-delivery-forecasts-CleanTechnica.png",
+"publishedAt": "2021-06-02T09:30:39Z",
+"content": "Two months ago, Tesla released its 1st quarter production and delivery totals, which were well above what Wall Street analysts were expecting. Shortly thereafter, I published my somewhat detailed Tes… [+3037 chars]"
+},
+{
+"source": {
+"id": "bloomberg",
+"name": "Bloomberg"
+},
+"author": "Craig Trudell",
+"title": "Musk Says Panic-Buying of Chips Is Like the Rush on Toilet Paper",
+"description": "Elon Musk said the chip shortage is wreaking havoc on Tesla Inc.’s supply chain and blamed companies ordering more microcontrollers than they need, much like consumers hoarded toilet paper in the early days of the pandemic.",
+"url": "https://www.bloomberg.com/news/articles/2021-06-02/musk-says-panic-buying-of-chips-is-like-the-rush-on-toilet-paper",
+"urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihIPhlvPb8gw/v0/1200x800.jpg",
+"publishedAt": "2021-06-02T09:28:45Z",
+"content": "Elon Musk said the chip shortage is wreaking havoc on \r\nTesla Inc.s supply chain and blamed companies ordering more microcontrollers than they need, much like consumers hoarded toilet paper in the ea… [+1967 chars]"
+}
+]
+}
