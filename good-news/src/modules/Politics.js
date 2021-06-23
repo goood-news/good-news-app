@@ -9,8 +9,8 @@ import NewsContainer from '../components/NewsContainer';
 import MockContainer from '../components/mockContainer';
 
 import axios from 'axios';
-import * as politicsData from '../../mockData/politics.json';
-import * as newsAPI from '../../mockData/newsapi.json';
+// import * as politicsData from '../../mockData/politics.json';
+// import * as newsAPI from '../../mockData/newsapi.json';
 
 const WIDTH = Dimensions.get('screen').width;
 const HEIGHT = Dimensions.get('screen').height;
@@ -29,9 +29,6 @@ export default Basic = () => {
   const [isReady, setIsReady] = useState(false); // apploading state
   const [mockData, setMockData] = useState([]); // data list for mock test
   const [pageCnt, setPageCnt] = useState(1); // page number, will count up after loading for more loading
-
-  // Data
-  const data = politicsData.newsContent; // use ORM later
   
   // AppLoading functions
   const loadAssets = () => { getData(); } // load news for first landing page 
@@ -40,14 +37,14 @@ export default Basic = () => {
   // Load news from Database
   const getData = async () => {
     try {
-        // await axios.get(`https://newsapi.org/v2/everything?q=japan&pageSize=5&page=${pageCnt}&from=2021-05-01&sortBy=publishedAt&apiKey=c1e7fbcf245e460f8f2bed99a3e6e23b`)
-      // .then((res) => {
-      //     // console.log("axios working ✅", res.data.articles[0]); // console for checking axios
-      //     const result = res.data.articles;
-      //     result.map(cur => tmpData.push(cur)); // push new news to mockData list, +1 for page
-      //     setMockData(tmpData);
-      //     setPageCnt(pageCnt+1);
-      //   })
+        await axios.get(`http://ec2-13-124-170-17.ap-northeast-2.compute.amazonaws.com/db/politics`)
+      .then((res) => {
+          // console.log("axios working ✅",res.data); // console for checking axios
+          const result = res.data;
+          result.map(cur => tmpData.push(cur)); // push new news to mockData list, +1 for page
+          setMockData(tmpData);
+          // setPageCnt(pageCnt+1);
+        })
     }
     catch (e) {
       console.log(e);

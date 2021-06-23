@@ -43,16 +43,17 @@ const HeadContainer = styled.View`
 export default Basic = (cur) => {
   const navigation = useNavigation();
   const cur_news = cur.route.params;
+  console.log("cur in news content: ", cur_news)
   return (
     <ScrollView>
       <Wrapper>
         <HeadContainer>
-        <Title>{cur_news.title}</Title>
-        <Image source={{ uri: cur_news.urlToImage }} style={{ width: 250, height: 150, margin: 20 }} />
+        <Title>{cur_news.TITLE}</Title>
+        <Image source={{ uri: cur_news.IMAGE }} style={{ width: 250, height: 150, margin: 20 }} />
         </HeadContainer>
         <ShareContainer><Icon name="share-alt" size={30} color="#42A5F5" /></ShareContainer>
-        <Icon name="clock-o" size={20} color="#000" /><Time>{cur_news.publishedAt}</Time>
-        <Text>{cur_news.content},{cur_news.content},{cur_news.content},{cur_news.content},{cur_news.content},{cur_news.content},{cur_news.content},{cur_news.content},{cur_news.content},{cur_news.content}</Text>
+        <Icon name="clock-o" size={20} color="#000" /><Time>{cur_news.SOURCE}</Time>
+        <Text>{cur_news.FULL_CONTENTS}</Text>
     </Wrapper>
     </ScrollView>
   )

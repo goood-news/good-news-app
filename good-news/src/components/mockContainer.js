@@ -30,32 +30,28 @@ const Title = styled.Text`
   margin: 5px;
 `;
 
-export default Basic = ({cur}) => {
+export default Basic = ({ cur }) => {
+  // console.log("cur in mock container: ", cur);
   const navigation = useNavigation();
   const Navigation = useNavigation();
   const getNewsContent = () => {
     Navigation.navigate("NewsContent", cur);
   }
-  // console.log("cur", cur);
-  if (cur !== undefined) {
     return (
       <Wrapper>
         <TouchableOpacity
           onPress={()=>getNewsContent()}
         >
         <Container>
-            <Title>{cur.title}</Title>
-            <Image source={{ uri: cur.urlToImage }} style={{ width: 250, height: 150, margin: 20}} />
-            <Text>{cur.content.slice(30)}...</Text>
+            <Title>{cur.TITLE}</Title>
+            {
+              cur.IMAGE
+                ? <Image source={{ uri: cur.IMAGE }} style={{ width: 250, height: 150, margin: 20 }} />
+                : <Image source={ require('../../assets/images.png') } style={{ width: 250, height: 150, margin: 20 }} />
+            }
+            <Text>{cur.CONTENTS.slice(10)}...</Text>
           </Container>
           </TouchableOpacity>
       </Wrapper>
     )
-  }
-  else {
-    return (
-      <Wrapper></Wrapper>
-    )
-  }
-  
 }

@@ -55,7 +55,7 @@ export default Basic = () => {
 
     >
       <Tab.Screen name="Politics" component={Politics}/>
-      <Tab.Screen name="Home" component={Home} />
+      {/* <Tab.Screen name="Home" component={Home} /> */}
       <Tab.Screen name="Economic" component={Economic} />
       <Tab.Screen name="IT" component={IT} />
       <Tab.Screen name="Opinion" component={Opinion} />
